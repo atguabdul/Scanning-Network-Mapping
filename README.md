@@ -9,26 +9,42 @@ Information Gathering is the process of collecting data about a target system, n
 Passive information gathering involves collecting data without directly interacting with the target system.
 
 ● Domain & IP Analysis
-  ● Social Media
-  ● Search Engines
+
+  - Social Media
+  
+  - Search Engines
+  
 ● DNS Recon
-  ● Google Dorks
+
+  - Google Dorks
+  
 Google advanced search operators for finding exposed files and sensitive data.
 
 🔴 Active Information Gathering
 Active information gathering requires direct interaction with the target system, often triggering logs and alerts.
 
 ● Scanning
-   ● Network Mapping/Host Discovery
-   ● Port Scanning
-● Enumeration
-   ● Service & OS Fingerprinting
 
-🛠 Tools for Scanning & Mapping
+   - Network Mapping/Host Discovery
+   
+   - Port Scanning
+   
+● Enumeration
+
+   - Service & OS Fingerprinting
+
+
+
+
+# 🛠 Tools for Scanning & Mapping
 Here are some popular tools used in scanning and network mapping:
 
 ● Nmap – Port scanning and host discovery
+
 ● Masscan – Ultra-fast port scanning
+
 ● Wireshark – Network traffic analysis
+
 ● Shodan – Internet-connected device search
+
 ● FOCA – Metadata analysis
